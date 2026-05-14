@@ -727,56 +727,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/107_Central.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/107_Central.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/108_NorthernEurope.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/108_NorthernEurope.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/109_Rome.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/109_Rome.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/110_BlackGold.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/110_BlackGold.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/111_GreenOrange.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/111_GreenOrange.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/112_CyberPunk.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/112_CyberPunk.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/113_BlackIce.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/113_BlackIce.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/121_Bleach.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/121_Bleach.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/122_Thriller.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/122_Thriller.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/123_TealOrange.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/123_TealOrange.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/124_JapaneseStyle.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/124_JapaneseStyle.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/125_Latin.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/125_Latin.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/126_Fantasy2.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/126_Fantasy2.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/127_Creamy.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/127_Creamy.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/128_Sepia.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/128_Sepia.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/129_LeicaVivid.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/129_LeicaVivid.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/130_LeicaNatural.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/130_LeicaNatural.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/131_MonochromeTrue.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/131_MonochromeTrue.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/132_MonochromeHighContrast.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/132_MonochromeHighContrast.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/133_MonochromeBrown.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/133_MonochromeBrown.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/134_MonochromeBlue.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/134_MonochromeBlue.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/135_Classical.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/135_Classical.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/136_Filene.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/136_Filene.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/137_GreenNight.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/137_GreenNight.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/138_LiteratureAndArt.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/138_LiteratureAndArt.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/139_OrangeHoney.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/139_OrangeHoney.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/140_Romance.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/140_Romance.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/141_FR500.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/141_FR500.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/142_FE250.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/142_FE250.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/143_RedLantern.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/143_RedLantern.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/144_RedHero.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/144_RedHero.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/145_TactileBlackWhite.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/145_TactileBlackWhite.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/146_TactileGreen.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/146_TactileGreen.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/147_Neutral.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/147_Neutral.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/148_Mild.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/148_Mild.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/149_LilyWhite.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/149_LilyWhite.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/150_Bright.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/150_Bright.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/151_Fresh.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/151_Fresh.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/152_Limpid.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/152_Limpid.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/153_KC64.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/153_KC64.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/154_V250.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/154_V250.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/155_H400.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/155_H400.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/156_ColdWhite.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/156_ColdWhite.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/157_Native.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/157_Native.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/158_BWClassical.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/158_BWClassical.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/159_Flowers.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/159_Flowers.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/160_Vivid.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/160_Vivid.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/161_KP160.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/161_KP160.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/162_Natural.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/162_Natural.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/163_KG200.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/163_KG200.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/164_FC400.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/164_FC400.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/165_C50D.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/165_C50D.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/166_F50.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/166_F50.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/167_CC.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/167_CC.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/videofilter/168_NC.png:$(TARGET_COPY_OUT_ODM)/etc/camera/videofilter/168_NC.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/20220921.icc:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/20220921.icc \
@@ -844,8 +794,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/Oxanium-Medium.ttf:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/Oxanium-Medium.ttf \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_film_logo.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_film_logo.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_film_logo_white.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_film_logo_white.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_logo.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_logo.png \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_logo_p3.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_logo_p3.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_poco_logo.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_poco_logo.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_poco_logo_white.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_poco_logo_white.png \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/xiaomi/watermark/ic_cv_redmi_logo.png:$(TARGET_COPY_OUT_ODM)/etc/camera/xiaomi/watermark/ic_cv_redmi_logo.png \

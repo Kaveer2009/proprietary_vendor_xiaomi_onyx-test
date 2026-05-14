@@ -3017,11 +3017,11 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
+    camerax-vendor-extensions \
     androidx.camera.extensions.impl \
     uimgbalibrary \
     uimgbamanagerlibrary \
     uimservicelibrary \
-    camerax-vendor-extensions \
     qcrilhook \
     vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.ims.connection-V1.0-java \
@@ -3232,4 +3232,5 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libq3dtools_adreno_so
 
 PRODUCT_BOOT_JARS += \
-    WfdCommon
+    WfdCommon \
+    camerax-vendor-extensions

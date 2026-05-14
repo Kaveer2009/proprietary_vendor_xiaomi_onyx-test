@@ -118,7 +118,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/cameraopt.json:$(TARGET_COPY_OUT_ODM)/etc/camera/cameraopt.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/cameraopt_perf.json:$(TARGET_COPY_OUT_ODM)/etc/camera/cameraopt_perf.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/camerascene.json:$(TARGET_COPY_OUT_ODM)/etc/camera/camerascene.json \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/camxoverridesettings.txt \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/com.xiaomi.dcal.w_07.u_10.golden:$(TARGET_COPY_OUT_ODM)/etc/camera/com.xiaomi.dcal.w_07.u_10.golden \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/com.xiaomi.dcal.w_10.u_01.golden:$(TARGET_COPY_OUT_ODM)/etc/camera/com.xiaomi.dcal.w_10.u_01.golden \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/default_param.json:$(TARGET_COPY_OUT_ODM)/etc/camera/default_param.json \

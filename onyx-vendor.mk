@@ -210,19 +210,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/Material/1166466556_252005700:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/Material/1166466556_252005700 \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/Material/1166466556_2571257293:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/Material/1166466556_2571257293 \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/Material/1166466556_4025145477:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/Material/1166466556_4025145477 \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_P010ToRGB10A2Orientation.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_P010ToRGB10A2Orientation.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_RGB10A2ToP010Orientation.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_RGB10A2ToP010Orientation.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_RGB10A2ToRGB10A2.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_RGB10A2ToRGB10A2.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_RGBA2RGBAUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_RGBA2RGBAUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_RGBA2YUVUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_RGBA2YUVUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_RGBA2YUVUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_RGBA2YUVUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_DEHAZE.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_DEHAZE.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV_DEHAZE.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV_DEHAZE.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2YUVUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2YUVUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUV2YUVUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUV2YUVUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/BuildIn/binShaders64/shader_YUVP010ToYUVP010.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/render/BuildIn/binShaders64/shader_YUVP010ToYUVP010.bin \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/Config/config_mode_all.json:$(TARGET_COPY_OUT_ODM)/etc/camera/render/Config/config_mode_all.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/Config/config_mode_front_other.json:$(TARGET_COPY_OUT_ODM)/etc/camera/render/Config/config_mode_front_other.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/render/Config/config_mode_native.json:$(TARGET_COPY_OUT_ODM)/etc/camera/render/Config/config_mode_native.json \
@@ -389,19 +376,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/Material/1166466556_252005700:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/Material/1166466556_252005700 \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/Material/1166466556_2571257293:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/Material/1166466556_2571257293 \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/Material/1166466556_4025145477:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/Material/1166466556_4025145477 \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_P010ToRGB10A2Orientation.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_P010ToRGB10A2Orientation.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_RGB10A2ToP010Orientation.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_RGB10A2ToP010Orientation.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_RGB10A2ToRGB10A2.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_RGB10A2ToRGB10A2.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2RGBAUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2RGBAUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2YUVUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2YUVUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2YUVUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_RGBA2YUVUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_DEHAZE.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_DEHAZE.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV_DEHAZE.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2RGBAUtils_SWAP_UV_DEHAZE.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2YUVUtils.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2YUVUtils.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2YUVUtils_SWAP_UV.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUV2YUVUtils_SWAP_UV.bin \
-    vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/BuildIn/binShaders64/shader_YUVP010ToYUVP010.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/BuildIn/binShaders64/shader_YUVP010ToYUVP010.bin \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/Config/config_mode_all.json:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/Config/config_mode_all.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/Config/config_mode_front_other.json:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/Config/config_mode_front_other.json \
     vendor/xiaomi/onyx/proprietary/odm/etc/camera/resources/render/Config/config_mode_native.json:$(TARGET_COPY_OUT_ODM)/etc/camera/resources/render/Config/config_mode_native.json \
